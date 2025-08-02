@@ -1,6 +1,6 @@
 # 📝 Formulario de Postulación a Becas
 
-![Banner del Proyecto](https://i.imgur.com/8aZ3w9R.png)
+![Banner del Proyecto](formulario.jpeg)
 
 Un sistema de formulario web dinámico, seguro y responsivo, diseñado para gestionar postulaciones a becas de manera eficiente. El proyecto está construido con tecnologías modernas, enfocado en ofrecer una experiencia de usuario fluida y validaciones de datos robustas tanto en el cliente como en el servidor.
 
